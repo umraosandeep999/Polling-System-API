@@ -18,7 +18,7 @@ create and share polls privately or publicly -- its fast and free!
 ### Run Locally
 - Clone the repository
 ```bash
-git clone https://github.com/asheeeshh/ohmypoll.git
+git clone https://github.com/sandeep.kumar/ohmypoll.git
 ```
 - Create a database on [planetscale](https://planetscale.com) and set the `DATABASE_URL` environment variable in a `.env` file, see [`.env.example`](/.env.example) for example. You can also use this command.
 ```bash
